@@ -1,8 +1,3 @@
-## How to do this kind of documentation
-
-This repo uses terraform-docs to generate doc. Here is a link on how it works: https://betterprogramming.pub/automate-terraform-documentation-e9839deceb6e
-There is a way to automatically update the doc, which is not used here, but works with Github Hooks.
-
 ## Requirements
 
 | Name | Version |
