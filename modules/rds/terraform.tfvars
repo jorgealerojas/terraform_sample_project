@@ -1,0 +1,10 @@
+db_subnet_group_name     = "shokworks-db-subnet-group"
+#private_subnet_ids       = ["subnet-12345678", "subnet-23456789", "subnet-34567890"]
+db_parameter_group_name  = "shokworks-db-parameter-group"
+database_identifier      = "shokworks-db"
+database_size            = 20
+database_instance_class  = "db.t3.micro"
+#database_user            = "exampleuser"
+#database_password        = "examplepassword"
+#postgres_security_group  = "sg-12345678"
+database_environment     = "dev"

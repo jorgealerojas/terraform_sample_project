@@ -1,0 +1,6 @@
+asg_system_name   = "shokworks-asg"
+asg_environment   = "dev"
+asg_ami_id        = "ami-007855ac798b5175e"
+asg_instance_type = "t3.micro"
+asg_key_pair_name = "shok-new-virginia"
+asg_acm           = "arn:aws:acm:us-east-1:067895002187:certificate/d614ad88-46e8-485d-bc48-a5b8f3e77c76"
